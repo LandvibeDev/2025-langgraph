@@ -1,0 +1,19 @@
+2주차 진행
+일시 : 250721 오후 8시
+인원 : 구재성/김도훈/배수민/손창헌/이강민/이승준/권도완
+
+진행내용:
+- Langchain
+- Prompt Engineering
+- LCEL
+- RAG
+- Re-ranking
+- Query Transformation
+- 컨텍스트 기반 필터링 및 메타데이터
+- RunnableLambda, RunnableMap, RunnablePassthrough
+
+이론 : Langraph / Agent
+
+과제 : Langraph를 이용하여 Agent 형태로 rag 바꿔보기
+
+인증사진
