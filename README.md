@@ -1,5 +1,5 @@
 # 2025_langgraph
-develope Multi-agent system with langraph
+develope Multi-agent system with langㅎraph
 
 
 ### 기록:
@@ -8,4 +8,5 @@ develope Multi-agent system with langraph
 2. [2주차](기록/2주차.md)
 3. [3주차](기록/3주차.md)
 4. [4주차](기록/4주차.md)
-   
+5. [5주차](기록/5주차.md) 
+6. [6주차](기록/6주차(최종).md)
