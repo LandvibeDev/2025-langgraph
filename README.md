@@ -1,5 +1,5 @@
 # 2025_langgraph
-develope Multi-agent system with langㅎraph
+develope Multi-agent system with langgraph
 
 
 ### 기록:
